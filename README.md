@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-This repository contains solutions to various programming problems from [Codeforces](https://codeforces.com/). Each solution is organized by problem and includes clear code and explanations where applicable.
+This repository contains my solutions to various programming problems from [Codeforces](https://codeforces.com/).
 
 ## Structure
 
