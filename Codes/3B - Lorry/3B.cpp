@@ -6,15 +6,6 @@
 
 using namespace std;
 
-void display(vector<pair<int, int>> L)
-{
-    for (auto k : L)
-    {
-        cout << k.first << " ";
-    }
-    cout << endl;
-}
-
 int main()
 {
     int n;
@@ -40,23 +31,20 @@ int main()
 
     int m = 0;
 
-    int k1, k2, c, kcount;
+    int k1, k2, c;
     vector<int> sol;
 
     while (t > 1)
     {
-        kcount = 0;
         k1 = 0;
         if (kayaks.size() >= 1)
         {
             k1 = kayaks.back().first;
-            kcount++;
         }
         k2 = 0;
         if (kayaks.size() >= 2)
         {
             k2 = kayaks[kayaks.size() - 2].first;
-            kcount++;
         }
         c = 0;
         if (catamarans.size() >= 1)
