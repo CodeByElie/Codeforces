@@ -11,7 +11,8 @@ This repository contains my solutions to various programming problems from [Code
 | 2 A | Winner | [Question](https://codeforces.com/problemset/problem/2/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2A%20-%20Winner/2A.cpp) |
 | 3 A | Shortest path of the king | [Question](https://codeforces.com/problemset/problem/3/A) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/3A%20-%20Shortest%20path%20of%20the%20king/3A.py) |
 | 3 B | Lorry | [Question](https://codeforces.com/problemset/problem/3/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/3B%20-%20Lorry/3B.cpp) |
-| 3 C | Tic-tac-toe | [Question](https://codeforces.com/problemset/problem/3/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/3C%20-%20Tic-tac-toe/3C.cpp) |
+| 3 C | Least Cost Bracket Sequence | [Question](https://codeforces.com/problemset/problem/3/D) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/3D%20-%20Least%20Cost%20Bracket%20Sequence/3D.cpp) |
+| 3 D | Tic-tac-toe | [Question](https://codeforces.com/problemset/problem/3/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/3C%20-%20Tic-tac-toe/3C.cpp) |
 | 4 A | Watermelon | [Question](https://codeforces.com/problemset/problem/4/A) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/4A%20-%20Watermelon/4A.py) |
 | 5 A | Chat Server's Outgoing Traffic | [Question](https://codeforces.com/problemset/problem/5/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/5A%20-%20Chat%20Server's%20Outgoing%20Traffic/5A.cpp) [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/5A%20-%20Chat%20Server's%20Outgoing%20Traffic/5A.py) |
 | 1001 C | Cirno and Operations | [Question](https://codeforces.com/problemset/problem/1001/C) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1001C%20-%20Cirno%20and%20Operations/1001C.py) |
