@@ -21,6 +21,7 @@ This repository contains my solutions to various programming problems from [Code
 | 5 C | Longest Regular Bracket Sequence | [Question](https://codeforces.com/problemset/problem/5/C) | [`C++`](https://github.com/CodeByElie/Codeforces/tree/main/Codes/5C%20-%20Longest%20Regular%20Bracket%20Sequence) |
 | 6 A | Triangle | [Question](https://codeforces.com/problemset/problem/6/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/6A%20-%20Triangle/6A.cpp) |
 | 6 B | President's Office | [Question](https://codeforces.com/problemset/problem/6/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/6B%20-%20President's%20Office/6B.cpp) |
+| 51 A | Cheaterius's Problem | [Question](https://codeforces.com/problemset/problem/51/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/51A%20-%20Cheaterius's%20Problem/51A.cpp) |
 | 1001 C | Cirno and Operations | [Question](https://codeforces.com/problemset/problem/1001/C) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1001C%20-%20Cirno%20and%20Operations/1001C.py) |
 | 2051 B | Journey | [Question](https://codeforces.com/problemset/problem/2051/B) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2051B%20-Journey/2051B.py) |
 | 2059 A | Milya and Two Arrays | [Question](https://codeforces.com/problemset/problem/2059/A) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2059A%20-%20Milya%20and%20Two%20Arrays/2059A.py) |
