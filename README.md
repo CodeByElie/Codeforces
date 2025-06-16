@@ -2,7 +2,14 @@
 
 This repository contains my solutions to various programming problems from [Codeforces](https://codeforces.com/).
 
+## C++
+For most C++ solutions in this repository, I include the header file `bits/stdc++.h`.
+This header conveniently imports most standard C++ libraries at once. 
+
+> *Keep in mind that `bits/stdc++.h` is not part of the official C++ standard and may not work on all compilers (it is mainly available in GCC).*
+
 <div align="center">
+<h2>Index</h2>
 
 |Problem ID| Problem Name | Question | Solution |
 | :------: | :----------: | :------: | :------: |
