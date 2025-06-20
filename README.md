@@ -34,6 +34,7 @@ This header conveniently imports most standard C++ libraries at once.
 | 2051 B | Journey | [Question](https://codeforces.com/problemset/problem/2051/B) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2051B%20-Journey/2051B.py) |
 | 2059 A | Milya and Two Arrays | [Question](https://codeforces.com/problemset/problem/2059/A) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2059A%20-%20Milya%20and%20Two%20Arrays/2059A.py) |
 | 2062 B | Clockwork | [Question](https://codeforces.com/problemset/problem/2062/B) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2062B%20-%20Clockwork/2062B.py) |
+| 2103 B | Binary Typewriter | [Question](https://codeforces.com/problemset/problem/2103/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2103B%20-%20Binary%20Typewriter/2103B.cpp) |
 | 2117 A | False Alarm | [Question](https://codeforces.com/problemset/problem/2117/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2117A%20-%20False%20Alarm/2117A.cpp) |
 | 2121 A | Letter Home | [Question](https://codeforces.com/problemset/problem/2121/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2121A%20-%20Letter%20Home/2121A.cpp) |
 | 2121 B | Above The Cloud | [Question](https://codeforces.com/problemset/problem/2121/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2121B%20-%20Above%20the%20Clouds/2121B.cpp) |
