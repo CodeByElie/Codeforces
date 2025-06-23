@@ -45,6 +45,8 @@ This header conveniently imports most standard C++ libraries at once.
 | 2121 B | Above The Cloud | [Question](https://codeforces.com/problemset/problem/2121/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2121B%20-%20Above%20the%20Clouds/2121B.cpp) |
 | 2121 C | Those Who Are With Us | [Question](https://codeforces.com/problemset/problem/2121/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2121C%20-%20Those%20Who%20Are%20With%20Us/2121C.cpp) |
 | 2121 D | 1709 | [Question](https://codeforces.com/problemset/problem/2121/D) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2121D%20-%201709/2121D.cpp) |
+| 2122 A | 1709 | [Question](https://codeforces.com/problemset/problem/2122/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2122A%20-%20Race/2122A.cpp) |
+| 2122 B | 1709 | [Question](https://codeforces.com/problemset/problem/2122/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2122B%20-%20Shrinking%20Array/2122B.cpp) |
 
 
 </div>
