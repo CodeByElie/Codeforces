@@ -7,7 +7,8 @@ typedef long long ll;
 #define DL(L) for(auto e:L) cout << e << " "; cout << endl;
 
 int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
 
-    
     return 0;
 }
