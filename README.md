@@ -30,7 +30,8 @@ This header conveniently imports most standard C++ libraries at once.
 | 6 B | President's Office | [Question](https://codeforces.com/problemset/problem/6/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/6B%20-%20President's%20Office/6B.cpp) |
 | 6 C | Alice, Bob and Chocolate | [Question](https://codeforces.com/problemset/problem/6/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/6C%20-%20Alice%2C%20Bob%20and%20Chocolate/6C.cpp) |
 | 7 A | Kalevitch and Chess | [Question](https://codeforces.com/problemset/problem/7/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/7A%20-%20Kalevitch%20and%20Chess/7A.cpp) |
-| 7 B | Memory Manager X| [Question](https://codeforces.com/problemset/problem/7/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/7B%20-%20Memory%20Manager/7B.cpp) |
+| 7 B | Memory Manager | [Question](https://codeforces.com/problemset/problem/7/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/7B%20-%20Memory%20Manager/7B.cpp) |
+| 7 C | Line | [Question](https://codeforces.com/problemset/problem/7/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/7C%20-%20Line/7C.cpp) |
 | 51 A | Cheaterius's Problem | [Question](https://codeforces.com/problemset/problem/51/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/51A%20-%20Cheaterius's%20Problem/51A.cpp) |
 | 1001 C | Cirno and Operations | [Question](https://codeforces.com/problemset/problem/1001/C) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1001C%20-%20Cirno%20and%20Operations/1001C.py) |
 | 2051 B | Journey | [Question](https://codeforces.com/problemset/problem/2051/B) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2051B%20-Journey/2051B.py) |
