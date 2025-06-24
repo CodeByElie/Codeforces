@@ -35,6 +35,7 @@ This header conveniently imports most standard C++ libraries at once.
 | 51 A | Cheaterius's Problem | [Question](https://codeforces.com/problemset/problem/51/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/51A%20-%20Cheaterius's%20Problem/51A.cpp) |
 | 1001 C | Cirno and Operations | [Question](https://codeforces.com/problemset/problem/1001/C) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1001C%20-%20Cirno%20and%20Operations/1001C.py) |
 | 2051 B | Journey | [Question](https://codeforces.com/problemset/problem/2051/B) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2051B%20-Journey/2051B.py) |
+| 2049 B | pspspsps | [Question](https://codeforces.com/problemset/problem/2049/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2049B%20-%20pspspsps/2049B.cpp) |
 | 2059 A | Milya and Two Arrays | [Question](https://codeforces.com/problemset/problem/2059/A) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2059A%20-%20Milya%20and%20Two%20Arrays/2059A.py) |
 | 2062 B | Clockwork | [Question](https://codeforces.com/problemset/problem/2062/B) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2062B%20-%20Clockwork/2062B.py) |
 | 2103 B | Binary Typewriter | [Question](https://codeforces.com/problemset/problem/2103/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2103B%20-%20Binary%20Typewriter/2103B.cpp) |
