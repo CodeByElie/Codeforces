@@ -40,13 +40,12 @@ This header conveniently imports most standard C++ libraries at once.
 | 2103 B | Binary Typewriter | [Question](https://codeforces.com/problemset/problem/2103/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2103B%20-%20Binary%20Typewriter/2103B.cpp) |
 | 2104 C | Card Game | [Question](https://codeforces.com/problemset/problem/2104/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2104C%20-%20Card%20Game/2104C.cpp) |
 | 2107 C | Maximum Subarray Sum | [Question](https://codeforces.com/problemset/problem/2107/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2107C%20-%20Maximum%20Subarray%20Sum/2107C.cpp) |
+| 2112 A | 1709 | [Question](https://codeforces.com/problemset/problem/2112/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2112A%20-%20Race/2112A.cpp) |
 | 2117 A | False Alarm | [Question](https://codeforces.com/problemset/problem/2117/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2117A%20-%20False%20Alarm/2117A.cpp) |
 | 2121 A | Letter Home | [Question](https://codeforces.com/problemset/problem/2121/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2121A%20-%20Letter%20Home/2121A.cpp) |
 | 2121 B | Above The Cloud | [Question](https://codeforces.com/problemset/problem/2121/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2121B%20-%20Above%20the%20Clouds/2121B.cpp) |
 | 2121 C | Those Who Are With Us | [Question](https://codeforces.com/problemset/problem/2121/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2121C%20-%20Those%20Who%20Are%20With%20Us/2121C.cpp) |
 | 2121 D | 1709 | [Question](https://codeforces.com/problemset/problem/2121/D) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2121D%20-%201709/2121D.cpp) |
-| 2122 A | 1709 | [Question](https://codeforces.com/problemset/problem/2122/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2122A%20-%20Race/2122A.cpp) |
-| 2122 B | 1709 | [Question](https://codeforces.com/problemset/problem/2122/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2122B%20-%20Shrinking%20Array/2122B.cpp) |
 
 
 </div>
