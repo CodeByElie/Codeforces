@@ -41,6 +41,7 @@ This header conveniently imports most standard C++ libraries at once.
 | 2062 B | Clockwork | [Question](https://codeforces.com/problemset/problem/2062/B) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2062B%20-%20Clockwork/2062B.py) |
 | 2103 B | Binary Typewriter | [Question](https://codeforces.com/problemset/problem/2103/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2103B%20-%20Binary%20Typewriter/2103B.cpp) |
 | 2104 C | Card Game | [Question](https://codeforces.com/problemset/problem/2104/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2104C%20-%20Card%20Game/2104C.cpp) |
+| 2106 C | Cherry Bomb | [Question](https://codeforces.com/problemset/problem/2106/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2106C%20-%20Cherry%20Bomb/2106C.cpp) |
 | 2107 C | Maximum Subarray Sum | [Question](https://codeforces.com/problemset/problem/2107/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2107C%20-%20Maximum%20Subarray%20Sum/2107C.cpp) |
 | 2112 A | 1709 | [Question](https://codeforces.com/problemset/problem/2112/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2112A%20-%20Race/2112A.cpp) |
 | 2114 C | Need More Arrays | [Question](https://codeforces.com/problemset/problem/2114/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2114C%20-%20Need%20More%20Arrays/2114C.cpp) |
