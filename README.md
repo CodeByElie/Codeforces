@@ -39,6 +39,7 @@ This header conveniently imports most standard C++ libraries at once.
 | 1832 C | Contrast Value | [Question](https://codeforces.com/problemset/problem/1832/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1832C%20-%20Contrast%20Value/1832C.cpp) |
 | 1927 C | Choose the Different Ones! | [Question](https://codeforces.com/problemset/problem/1927/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1927C%20-%20Choose%20the%20Different%20Ones!/1927C.cpp) |
 | 1954 C | Long Multiplication | [Question](https://codeforces.com/problemset/problem/1954/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1954C%20-%20Long%20Multiplication/1954C.cpp) |
+| 1945 C | Left and Right Houses | [Question](https://codeforces.com/problemset/problem/1945/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1945C%20-%20Left%20and%20Right%20Houses/1945C.cpp) |
 | 1999 B | Card Game | [Question](https://codeforces.com/problemset/problem/1999/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1999C%20-%20Card%20Game/1999B.cpp) |
 | 2051 B | Journey | [Question](https://codeforces.com/problemset/problem/2051/B) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2051B%20-%20Journey/2051B.py) |
 | 2049 B | pspspsps | [Question](https://codeforces.com/problemset/problem/2049/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2049B%20-%20pspspsps/2049B.cpp) |
