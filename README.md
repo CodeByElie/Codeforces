@@ -60,7 +60,6 @@ This header conveniently imports most standard C++ libraries at once.
 | 2121 C | Those Who Are With Us | [Question](https://codeforces.com/problemset/problem/2121/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2121C%20-%20Those%20Who%20Are%20With%20Us/2121C.cpp) |
 | 2121 D | 1709 | [Question](https://codeforces.com/problemset/problem/2121/D) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2121D%20-%201709/2121D.cpp) |
 | 2122 A | Greedy Grid | [Question](https://codeforces.com/problemset/problem/2122/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2122A%20-%20Greedy%20Grid/2122A.cpp) |
-| 2122 B | Pile Shuffling | [Question](https://codeforces.com/problemset/problem/2122/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2122B%20-%20Pile%20Shuffling/2122B.cpp) |
 | 2122 C | Manhattan Pairs | [Question](https://codeforces.com/problemset/problem/2122/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2122C%20-%20Manhattan%20Pairs/2122C.cpp) |
 
 
