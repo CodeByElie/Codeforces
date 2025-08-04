@@ -41,7 +41,7 @@ This header conveniently imports most standard C++ libraries at once.
 | 1954 C | Long Multiplication | [Question](https://codeforces.com/problemset/problem/1954/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1954C%20-%20Long%20Multiplication/1954C.cpp) |
 | 1945 C | Left and Right Houses | [Question](https://codeforces.com/problemset/problem/1945/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1945C%20-%20Left%20and%20Right%20Houses/1945C.cpp) |
 | 1999 B | Card Game | [Question](https://codeforces.com/problemset/problem/1999/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1999C%20-%20Card%20Game/1999B.cpp) |
-| 2034 C | Trapped in the Witch's Labyrinth | [Question](https://codeforces.com/problemset/problem/2034/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2034C%20-%20Trapped%20in%20the%20Witch's%20Labyrinth/2034.cpp) |
+| 2034 C | Trapped in the Witch's Labyrinth | [Question](https://codeforces.com/problemset/problem/2034/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2034C%20-%20Trapped%20in%20the%20Witch's%20Labyrinth/2034C.cpp) |
 | 2049 B | pspspsps | [Question](https://codeforces.com/problemset/problem/2049/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2049B%20-%20pspspsps/2049B.cpp) |
 | 2051 B | Journey | [Question](https://codeforces.com/problemset/problem/2051/B) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2051B%20-%20Journey/2051B.py) |
 | 2059 A | Milya and Two Arrays | [Question](https://codeforces.com/problemset/problem/2059/A) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2059A%20-%20Milya%20and%20Two%20Arrays/2059A.py) |
