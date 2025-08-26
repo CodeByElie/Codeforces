@@ -10,19 +10,20 @@ typedef long long ll;
     cout << endl;
 
 
-void solve(int tc = 1) {
-    // cin >> tc;
-    while(tc--) {
-        //code
-    }
+void solve() {
+    //code
 }
 
 int main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
-
-    solve();
+    
+    int tc = 1;
+    // cin >> tc;
+    while(tc--) {
+        solve();
+    }
 
     return 0;
 }
