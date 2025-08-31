@@ -63,6 +63,7 @@ This header conveniently imports most standard C++ libraries at once.
 | 2122 A | Greedy Grid | [Question](https://codeforces.com/problemset/problem/2122/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2122A%20-%20Greedy%20Grid/2122A.cpp) |
 | 2122 C | Manhattan Pairs | [Question](https://codeforces.com/problemset/problem/2122/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2122C%20-%20Manhattan%20Pairs/2122C.cpp) |
 | 2136 A | In The Dream | [Question](https://codeforces.com/problemset/problem/2136/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2136A%20-%20In%20the%20Dream/2136A.cpp) |
+| 2136 B | Like the Bitset | [Question](https://codeforces.com/problemset/problem/2136/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2136B%20-%20Like%20the%20Bitset/2136B.cpp) |
 
 
 
