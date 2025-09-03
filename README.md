@@ -37,6 +37,7 @@ This header conveniently imports most standard C++ libraries at once.
 | 489 C | Given Length and Sum of Digits... | [Question](https://codeforces.com/problemset/problem/489/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/489C%20-%20Given%20Length%20and%20Sum%20of%20Digits.../489C.cpp) |
 | 791 A | Bear and Big Brother | [Question](https://codeforces.com/problemset/problem/791/A) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/791A%20-%20Bear%20and%20Big%20Brother/791A.cpp) |
 | 1001 C | Cirno and Operations | [Question](https://codeforces.com/problemset/problem/1001/C) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1001C%20-%20Cirno%20and%20Operations/1001C.py) |
+| 1474 C | Array Destruction | [Question](https://codeforces.com/problemset/problem/1474/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1474C%20-%20Array%20Destruction/1474C.cpp) |
 | 1704 C | Virus | [Question](https://codeforces.com/problemset/problem/1704/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1704C%20-%20Virus/1704C.cpp) |
 | 1832 C | Contrast Value | [Question](https://codeforces.com/problemset/problem/1832/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1832C%20-%20Contrast%20Value/1832C.cpp) |
 | 1927 C | Choose the Different Ones! | [Question](https://codeforces.com/problemset/problem/1927/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/1927C%20-%20Choose%20the%20Different%20Ones!/1927C.cpp) |
