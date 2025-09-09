@@ -50,6 +50,7 @@ This header conveniently imports most standard C++ libraries at once.
 | 2051 B | Journey | [Question](https://codeforces.com/problemset/problem/2051/B) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2051B%20-%20Journey/2051B.py) |
 | 2059 A | Milya and Two Arrays | [Question](https://codeforces.com/problemset/problem/2059/A) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2059A%20-%20Milya%20and%20Two%20Arrays/2059A.py) |
 | 2062 B | Clockwork | [Question](https://codeforces.com/problemset/problem/2062/B) | [`Python`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2062B%20-%20Clockwork/2062B.py) |
+| 2072 E | Do You Love Your Hero and His Two-Hit Multi-Target Attacks? | [Question](https://codeforces.com/problemset/problem/2072/E) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2072E%20-%20Do%20You%20Love%20Your%20Hero%20and%20His%20Two-Hit%20Multi-Target%20Attacks%3F/2072E.cpp) |
 | 2103 B | Binary Typewriter | [Question](https://codeforces.com/problemset/problem/2103/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2103B%20-%20Binary%20Typewriter/2103B.cpp) |
 | 2104 C | Card Game | [Question](https://codeforces.com/problemset/problem/2104/C) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2104C%20-%20Card%20Game/2104C.cpp) |
 | 2106 B | St. Chroma | [Question](https://codeforces.com/problemset/problem/2106/B) | [`C++`](https://github.com/CodeByElie/Codeforces/blob/main/Codes/2106B%20-%20St.%20Chroma/2106B.cpp) |
